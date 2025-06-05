@@ -1,16 +1,17 @@
-## Hi there 👋
+# Thalita Kaneko Casula
 
-<!--
-**thalikaneko/thalikaneko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional em transição de carreira para a área de Tecnologia, com formação em Biomedicina, especialização em Estética e sólida experiência no setor administrativo. Atuei por mais de 5 anos com atendimento remoto, suporte a sistemas internos e organização de processos educacionais.
 
-Here are some ideas to get you started:
+Atualmente estou me dedicando a formações gratuitas em Desenvolvimento de Sistemas, com foco em back-end. Estudo lógica de programação, fundamentos de TI, HTML e CSS, e busco aplicar meus conhecimentos em pequenos projetos práticos enquanto desenvolvo autonomia técnica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho interesse especial por soluções que otimizem rotinas administrativas e promovam acessibilidade digital. Como pessoa com deficiência, carrego a vivência real de adaptação e inclusão, o que me inspira a pensar tecnologia com empatia e eficiência.
+
+## Tecnologias em estudo
+- Lógica de Programação
+- Fundamentos de TI
+- HTML e CSS
+- Git e GitHub
+
+## Em busca de
+- Oportunidades para estágio ou posições júnior na área de desenvolvimento
+- Projetos que envolvam acessibilidade, automação de processos e aprendizado prático
